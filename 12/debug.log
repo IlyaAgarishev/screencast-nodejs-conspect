@@ -1,0 +1,4 @@
+{"level":"info","message":"Got request"}
+{"message":"Echo: Hello","level":"debug"}
+{"message":"Got requestGET/echo?message=Hello","level":"info"}
+{"message":"Echo: Hello","level":"debug"}

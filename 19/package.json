@@ -1,0 +1,10 @@
+{
+  "name": "ScreencastNodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mime": "^2.4.0",
+    "mime-types": "^2.1.21"
+  }
+}
